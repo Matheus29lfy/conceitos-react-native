@@ -29,5 +29,12 @@
     "jest": "^30.2.0",
     "metro-react-native-babel-preset": "^0.77.0",
     "react-test-renderer": "19.2.4"
+  },
+  "pnpm": {
+  "overrides": {
+    "nth-check": "^2.0.1",
+    "postcss": "^8.4.31",
+    "webpack-dev-server": "^5.0.4"
   }
+}
 }
